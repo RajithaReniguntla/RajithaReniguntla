@@ -1,6 +1,6 @@
 ## Hi there, I'm Raji 👋
 
-I'm a **supply chain enthusiast** and a **third-culture kind**  — someone who’s lived between worlds and now tries to **make sense of the world through data**.
+I'm a **supply chain enthusiast** and a **third-culture kid**  — someone who’s lived between worlds and now tries to **make sense of the world through data**.
 I love uncovering the story behind the numbers.
 
 ---
