@@ -6,7 +6,7 @@ I love uncovering the story behind the numbers.
 ---
 
 ### 🔍 What I'm Exploring Right Now:
-- Supply chain optimization using **Python** — building models to improve fulfillment rates  
+- Supply chain optimization using **Python** 
 
 ---
 
