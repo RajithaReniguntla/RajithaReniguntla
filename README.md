@@ -36,8 +36,7 @@ Built **data narratives** using Python, Power BI, R, SQL & Excel, where I've tra
 ---
 
 ### 💡 What I Care About:
-- Using data to solve *real-world* problems — from global logistics to public policy, I want to leverage analytics to make an impact!
-
+- I believe in the power of data to solve *real-world* challenges, and I want to leverage analytics to create a meaningful impact.
 ---
 
 ### 📫 Let’s connect!
