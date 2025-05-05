@@ -27,7 +27,7 @@ Built **data narratives** using Python, Power BI, R, SQL & Excel, where I've tra
 ### 📂 My Projects
 - [Gender Dynamics Dashboard](https://github.com/RajithaReniguntla/GenderEducation_Dashboard) - Does education attainment (by gender) play a role in labour force participation?
 - [Product and Supplier Performance Analysis - SQL](https://github.com/RajithaReniguntla/WWI_Product_Analysis) - How are sales and supplier trends evolving?
-- [Fraud Prediction Model](https://github.com/RajithaReniguntla/FraudDetection) - What are the key indicators associated with fraududent transactions?
+- [Fraud Detection Model](https://github.com/RajithaReniguntla/FraudDetection) - What are the key indicators associated with fraududent transactions?
 - [Sports Analytics - NBA Statistics](https://github.com/RajithaReniguntla/NBAStats) - Does team change impact a player's performance and salary?
 - [HIV Shipment Analysis](https://github.com/RajithaReniguntla/HIV_Shipment_SupplyChainAnalytics) - Are USAID’s HIV/AIDS shipments driving progress toward the UNAIDS 90-90-90 goals in African countries?
   
